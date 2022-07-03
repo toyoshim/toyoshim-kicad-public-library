@@ -35,7 +35,6 @@ $ENDCMP
 $CMP XC9572XL-VQ44
 D Xilinx high-performance CPLD, 3.3V, VQFP-44
 K CPLD
-F https://www.chip1stop.com/pdf/product/XILI/J_DS057.PDF
 $ENDCMP
 #
 $CMP XCR3032XL-PLCC44
