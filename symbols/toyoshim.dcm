@@ -1,3 +1,47 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 27C1000
+D OTP EPROM 1 MiBit (128 Ki x 8 Bit)
+K OTP EPROM 1MiBit
+$ENDCMP
+#
+$CMP 27C1024
+D EPROM 1 MiBit (128 Ki x 8 Bit / 64 Ki x 16 Bit)
+K EPROM 1MiBit
+$ENDCMP
+#
+$CMP 27C32
+D EPROM 32 KiBit
+K EPROM 32KiBit
+$ENDCMP
+#
+$CMP PLS153
+D Programmable Logic Array, DIP-20/SOIC-20/PLCC-20
+K GAL PLD 16V8
+$ENDCMP
+#
+$CMP SRM2B256SLMX
+D 256K-BIT STATIC RAM
+K SRAM 256kB
+F http://akizukidenshi.com/download/ds/seikoepson/SRM2B256.pdf
+$ENDCMP
+#
+$CMP XC9536-VQ44
+D Xilinx high-performance CPLD, 5V, VQFP-44
+K CPLD
+F https://www.xilinx.com/support/documentation/data_sheets/ds064.pdf
+$ENDCMP
+#
+$CMP XC9572XL-VQ44
+D Xilinx high-performance CPLD, 3.3V, VQFP-44
+K CPLD
+F https://www.chip1stop.com/pdf/product/XILI/J_DS057.PDF
+$ENDCMP
+#
+$CMP XCR3032XL-PLCC44
+D Xilinx CoolRunner 64-Macrocell CPLD, 3.3V, VQFP-44
+K CPLD
+F https://www.xilinx.com/support/documentation/data_sheets/ds017.pdf
+$ENDCMP
+#
 #End Doc Library
